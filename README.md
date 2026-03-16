@@ -1,4 +1,5 @@
-# CDS-IM: Context-Dominant Selection for Influence Maximization
+# Context-Constrained Influence Maximization: A
+Path-Dependent Reward Framework
 
 [![Paper](https://img.shields.io/badge/Paper-ESWA%202026-blue)](link)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
