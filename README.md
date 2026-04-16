@@ -115,18 +115,7 @@ my_cs = make_context_space(
 
 ---
 
-## 📖 Citation
 
-```bibtex
-@article{anonymous2026cds,
-  title   = {Context-Constrained Influence Maximization:
-             A Path-Dependent Reward Framework},
-  author  = {Anonymous Authors},
-  journal = {Expert Systems with Applications},
-  year    = {2026},
-  note    = {Under review}
-}
-```
 
 ---
 
