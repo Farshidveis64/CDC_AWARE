@@ -99,22 +99,6 @@ my_cs = make_context_space(
 )
 ```
 
----
-
-## 📋 Parameters
-
-| Argument | Default | Description |
-|----------|---------|-------------|
-| `--budget` / `B` | 50 | Seed budget |
-| `--memory` / `k` | 3 | Context memory order |
-| `--R` | 1000 | MC rollouts per influence estimate |
-| `--M` | 1000 | MC samples for dominance estimation |
-| `--prune` | 90.0 | Pruning percentile (keeps top 10%) |
-| `--p` | 0.1 | Default edge propagation probability |
-| `--T` | 20 | Diffusion time horizon |
-
----
-
 
 
 ---
